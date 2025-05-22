@@ -1,7 +1,7 @@
 # My Data Science Project Repository
 
 ## Overview
-I have completed DataCamp's Associate Data Scientist in Python pathway, and this repository contains all the projects I completed during the course.
+I have completed DataCamp's Associate Data Scientist in Python pathway, and this repository contains all the projects I completed during the course. Through a series of projects, I developed a broad range of skills in data manipulation, cleaning, visualization, statistical analysis, and machine learning. Besides Python, I'm self-learning SQL too and applied my data manipulation skills on project 13.
 
 ## Project 1 - Investigating Netflix Movies
 - In this project I explored Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade, using data manipulation and data visualisation skills.
@@ -34,4 +34,7 @@ I have completed DataCamp's Associate Data Scientist in Python pathway, and this
 - In this project I utilised unsupervised learning to cluster a dataset of penguins into species-based groups.
 
 ## Project 12 - Predicting Movie Rental Durations
-- Using my regression knowledge, I built a regression model which will help predict the number of days a customer rents a DVD. 
+- Using my regression knowledge, I built a regression model which will help predict the number of days a customer rents a DVD.
+
+## Project 13 - Analyzing Students' Mental Health
+- In this SQL project, I used my data manipulation skills to explore the data from a study on the mental health of international students.
